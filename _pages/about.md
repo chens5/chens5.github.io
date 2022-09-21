@@ -13,4 +13,4 @@ I am a PhD student in the CSE department at UCSD. I started in Fall 2020 and did
 Publications
 ======
 1. [Approximation algorithms for 1-Wasserstein distance between persistence diagrams](https://arxiv.org/abs/2104.07710) (S. Chen, Y. Wang, SEA 2021)
-2. [Weisfeiler Lehman meets Gromov Wasserstein](https://arxiv.org/abs/2202.02495) (S. Chen, S. Lim, F. Mémoli, Z. Wan, Y. Wang, in submission 2022)
+2. [Weisfeiler Lehman meets Gromov Wasserstein](https://arxiv.org/abs/2202.02495) (S. Chen, S. Lim, F. Mémoli, Z. Wan, Y. Wang, ICML 2022)
