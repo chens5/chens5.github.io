@@ -15,3 +15,4 @@ Publications
 1. [Approximation algorithms for 1-Wasserstein distance between persistence diagrams](https://arxiv.org/abs/2104.07710) (S. Chen, Y. Wang, SEA 2021)
 2. [Weisfeiler-Lehman meets Gromov-Wasserstein](https://arxiv.org/abs/2202.02495) (S. Chen, S. Lim, F. Mémoli, Z. Wan, Y. Wang, ICML 2022)
 3. [Learning Ultrametric Trees for Optimal Transport Regression](https://arxiv.org/abs/2210.12288) (S. Chen, P. Tabaghi, Y. Wang, 2022)
+4. [Neural approximations of Wasserstein distance via a universal architecture for symmetric and factor-wise group invariant functions](https://arxiv.org/abs/2308.00273) (S. Chen, Y. Wang 2023)
