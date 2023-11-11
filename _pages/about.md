@@ -19,3 +19,7 @@ Publications
 [Weisfeiler-Lehman meets Gromov-Wasserstein](https://arxiv.org/abs/2202.02495) (S. Chen, S. Lim, F. Mémoli, Z. Wan, Y. Wang, ICML 2022)
 
 [Approximation algorithms for 1-Wasserstein distance between persistence diagrams](https://arxiv.org/abs/2104.07710) (S. Chen, Y. Wang, SEA 2021)
+
+Links (labmates, collaborators, friends, and enemies)
+======
+[Tristan Brugere](tristan.bruge.re), [Dhruv Kohli](https://chiggum.github.io/), [Zhengchao Wan](https://zhengchaow.github.io/), 
