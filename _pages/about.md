@@ -22,4 +22,4 @@ Publications
 
 Links (labmates, collaborators, friends, and enemies)
 ======
-[Tristan Brugere](tristan.bruge.re), [Dhruv Kohli](https://chiggum.github.io/), [Zhengchao Wan](https://zhengchaow.github.io/), 
+[Sowmya Manojna Narasimha](https://sowmyamanojna.github.io/) [Dhruv Kohli](https://chiggum.github.io/), [Zhengchao Wan](https://zhengchaow.github.io/), [Tristan Brugere](tristan.bruge.re)
