@@ -22,6 +22,7 @@ Publications
 
 [Approximation algorithms for 1-Wasserstein distance between persistence diagrams](https://arxiv.org/abs/2104.07710) (S. Chen, Y. Wang, accepted to SEA 2021)
 
+
 Links (labmates, collaborators, friends, and enemies)
 ======
 [Sowmya Manojna Narasimha](https://sowmyamanojna.github.io/), [Dhruv Kohli](https://chiggum.github.io/), [Zhengchao Wan](https://zhengchaow.github.io/), [Tristan Brugere](tristan.bruge.re)
