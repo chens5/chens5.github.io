@@ -12,6 +12,8 @@ I am a PhD student in the CSE department at UCSD. I started in Fall 2020 and did
 
 Publications
 ======
+[Graph neural networks extrapolate out-of-distribution for shortest paths](https://arxiv.org/pdf/2503.19173) (R. R. Nerem, S. Chen, S. Dasgupta, Y. Wang, preprint 2025)
+
 [Neural approximations of Wasserstein distance via a universal architecture for symmetric and factor-wise group invariant functions](https://arxiv.org/abs/2308.00273) (S. Chen, Y. Wang, accepted to NeurIPS 2023)
 
 [Learning Ultrametric Trees for Optimal Transport Regression](https://arxiv.org/abs/2210.12288) (S. Chen, P. Tabaghi, Y. Wang, accepted to AAAI 2024)
