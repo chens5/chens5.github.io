@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the CSE department at UCSD. I started in Fall 2020 and did my undergraduate degree in computer science and math at Carleton College. My advisor is Yusu Wang and currently, I work on research relating to approximation algorithms for optimal transport, neural networks, and geometric algorithms/problems. 
+I am a PhD student in the CSE department at UCSD. I started in Fall 2020 and did my undergraduate degree in computer science and math at Carleton College. My advisor is Yusu Wang and currently, I work on research relating to optimal transport, neural networks, geometric deep learning, and geometric algorithms/problems. 
 
 Publications
 ======
+De-Coupled NeuroGF for Shortest Path Distance Approximations on Large Terrains (S. Chen, P. K. Agarwal, Y. Wang, accepted to ICML 2025)
+
 [Graph neural networks extrapolate out-of-distribution for shortest paths](https://arxiv.org/pdf/2503.19173) (R. R. Nerem, S. Chen, S. Dasgupta, Y. Wang, preprint 2025)
 
 [Neural approximations of Wasserstein distance via a universal architecture for symmetric and factor-wise group invariant functions](https://arxiv.org/abs/2308.00273) (S. Chen, Y. Wang, accepted to NeurIPS 2023)
@@ -25,6 +27,6 @@ Publications
 [Approximation algorithms for 1-Wasserstein distance between persistence diagrams](https://arxiv.org/abs/2104.07710) (S. Chen, Y. Wang, accepted to SEA 2021)
 
 
-Links (labmates, collaborators, friends, and enemies)
+Links to cool people(labmates, collaborators, friends, and enemies)
 ======
 [Sowmya Manojna Narasimha](https://sowmyamanojna.github.io/), [Dhruv Kohli](https://chiggum.github.io/), [Zhengchao Wan](https://zhengchaow.github.io/), [Tristan Brugere](https://tristan.bruge.re/), [Jesse He](https://he-jesse.github.io/), [Riley Nerem](https://robertrileynerem.com/)
