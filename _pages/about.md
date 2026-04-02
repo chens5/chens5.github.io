@@ -12,6 +12,8 @@ I am a PhD student in the CSE department at UCSD. I started in Fall 2020 and did
 
 Publications
 ======
+Efficient Neural Approximations of Geometric Optimization Problems (S. Chen, O. Ciolli, A. Sidiropolous, Y. Wang, accepted to NeurIPS 2025)
+
 De-Coupled NeuroGF for Shortest Path Distance Approximations on Large Terrains (S. Chen, P. K. Agarwal, Y. Wang, accepted to ICML 2025)
 
 [Graph neural networks extrapolate out-of-distribution for shortest paths](https://arxiv.org/pdf/2503.19173) (R. R. Nerem, S. Chen, S. Dasgupta, Y. Wang, preprint 2025)
@@ -26,7 +28,3 @@ De-Coupled NeuroGF for Shortest Path Distance Approximations on Large Terrains (
 
 [Approximation algorithms for 1-Wasserstein distance between persistence diagrams](https://arxiv.org/abs/2104.07710) (S. Chen, Y. Wang, accepted to SEA 2021)
 
-
-Links to cool people(labmates, collaborators, friends, and enemies)
-======
-[Sowmya Manojna Narasimha](https://sowmyamanojna.github.io/), [Dhruv Kohli](https://chiggum.github.io/), [Zhengchao Wan](https://zhengchaow.github.io/), [Tristan Brugere](https://tristan.bruge.re/), [Jesse He](https://he-jesse.github.io/), [Riley Nerem](https://robertrileynerem.com/)
