@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the CSE department at UCSD. I started in Fall 2020 and did my undergraduate degree in computer science and math at Carleton College. My advisor is Yusu Wang and currently, I work on research relating to optimal transport, neural networks, geometric deep learning, and geometric algorithms/problems. 
+I am an incoming assistant professor of computer science at Oberlin College. I finished my PhD in 2026 at UC-San Diego and was advised by Yusu Wang. Before that, I did my undergraduate degree in computer science and math at Carleton College. Currently, I am interested in research related to neural algorithmic reasoning, geometric deep learning, computational geometry, geospatial analysis, and optimal transport. If you are an undergraduate at Oberlin interested in doing research on any of these topics, feel free to contact me!
 
 Publications
 ======
+Neural Algorithmic Reasoning for Graph Saddle-Point Problems (S. Chen, C. Clougherty, J. He, G. Mishne, C. Holtz, in submission 2026) 
+
 Efficient Neural Approximations of Geometric Optimization Problems (S. Chen, O. Ciolli, A. Sidiropolous, Y. Wang, accepted to NeurIPS 2025)
 
 De-Coupled NeuroGF for Shortest Path Distance Approximations on Large Terrains (S. Chen, P. K. Agarwal, Y. Wang, accepted to ICML 2025)
@@ -26,5 +28,5 @@ De-Coupled NeuroGF for Shortest Path Distance Approximations on Large Terrains (
 
 [Weisfeiler-Lehman meets Gromov-Wasserstein](https://arxiv.org/abs/2202.02495) (S. Chen, S. Lim, F. Mémoli, Z. Wan, Y. Wang, accepted to ICML 2022)
 
-[Approximation algorithms for 1-Wasserstein distance between persistence diagrams](https://arxiv.org/abs/2104.07710) (S. Chen, Y. Wang, accepted to SEA 2021)
+[Approximation algorithms for 1-Wasserstein distance between persistence diagrams](https://arxiv.org/abs/2104.07710) (S. Chen, Y. Wang, accepted to SEA 2021, extended version in _Computational Geometry_, 2025)
 
