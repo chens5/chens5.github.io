@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming assistant professor of computer science at Oberlin College. I finished my PhD in 2026 at UC-San Diego and was advised by Yusu Wang. Before that, I did my undergraduate degree in computer science and math at Carleton College. Currently, I am interested in research related to neural algorithmic reasoning, geometric deep learning, computational geometry, geospatial analysis, and optimal transport. If you are an undergraduate at Oberlin interested in doing research on any of these topics, feel free to contact me!
+I am an assistant professor of computer science at Oberlin College. I finished my PhD in 2026 at UC-San Diego and was advised by Yusu Wang. Before that, I did my undergraduate degree in computer science and math at Carleton College. Currently, I am interested in research related to neural algorithmic reasoning, geometric deep learning, computational geometry, geospatial analysis, and optimal transport. If you are an undergraduate at Oberlin interested in doing research on any of these topics, feel free to contact me!
 
 Publications
 ======
@@ -18,7 +18,7 @@ Efficient Neural Approximations of Geometric Optimization Problems (S. Chen, O. 
 
 De-Coupled NeuroGF for Shortest Path Distance Approximations on Large Terrains (S. Chen, P. K. Agarwal, Y. Wang, accepted to ICML 2025)
 
-[Graph neural networks extrapolate out-of-distribution for shortest paths](https://arxiv.org/pdf/2503.19173) (R. R. Nerem, S. Chen, S. Dasgupta, Y. Wang, preprint 2025)
+[Graph neural networks extrapolate out-of-distribution for shortest paths](https://arxiv.org/pdf/2503.19173) (R. R. Nerem, S. Chen, S. Dasgupta, Y. Wang, accepted to COLT 2026)
 
 [Neural approximations of Wasserstein distance via a universal architecture for symmetric and factor-wise group invariant functions](https://arxiv.org/abs/2308.00273) (S. Chen, Y. Wang, accepted to NeurIPS 2023)
 
